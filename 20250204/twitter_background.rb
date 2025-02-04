@@ -33,4 +33,5 @@ def colatz_count(number)
   end
 end
 
-make_background('background', %w[#fff5ee #ffe1cc #ffc499 #ffa666 #ff8833 #ff6a00])
+# cf. https://www.colordic.org/colorscheme/f56fa1
+make_background('background', %w[#f56fa1 #f5c36e #a0f56e #6ef5c3 #6ea0f5 #c36ef5])
